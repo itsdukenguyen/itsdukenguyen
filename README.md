@@ -35,7 +35,9 @@ Building a reliable, documented, and reproducible homelab in Las Vegas.
 
 ## 📊 Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdukenguyen&show_icons=true&theme=radical&hide_border=true)
+## 📊 Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsdukenguyen&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdukenguyen&layout=compact&theme=radical&hide_border=true)
 
 ---
